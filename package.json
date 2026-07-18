@@ -1,7 +1,7 @@
 {
-  "name": "fedpromptly-desktop",
+  "name": "Patreon+-desktop",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Patreon+",
   "description": "Desktop client for https://sites.google.com/view/patreonpluss/home",
   "main": "src/main.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.yourdomain.app",
-    "productName": "Fedpromptly",
+    "productName": "Patreon+",
     "files": [
       "src/**/*"
     ],
