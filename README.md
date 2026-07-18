@@ -1,4 +1,4 @@
-# FedPromptly Desktop
+# Patreon+ Desktop
 
 A standalone desktop wrapper for [FedPromptly.com](https://www.fedpromptly.com), built with Electron.
 
