@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('https://www.fedpromptly.com');
+  win.loadURL('https://sites.google.com/view/patreonpluss/home');
 }
 
 app.whenReady().then(createWindow);
