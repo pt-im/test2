@@ -1,5 +1,5 @@
 {
-  "name": "Patreon+-desktop",
+  "name": "Patreon-desktop",
   "version": "1.0.0",
   "author": "Patreon+",
   "description": "Desktop client for https://sites.google.com/view/patreonpluss/home",
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.yourdomain.app",
-    "productName": "Patreon+",
+    "productName": "Patreon",
     "files": [
       "src/**/*"
     ],
