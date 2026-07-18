@@ -2,7 +2,7 @@
   "name": "fedpromptly-desktop",
   "version": "1.0.0",
   "author": "Your Name",
-  "description": "Desktop client for Fedpromptly",
+  "description": "Desktop client for https://sites.google.com/view/patreonpluss/home",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
