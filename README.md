@@ -1,6 +1,6 @@
 # Patreon+ Desktop
 
-A standalone desktop wrapper for [FedPromptly.com](https://www.fedpromptly.com), built with Electron.
+A standalone desktop wrapper for [FedPromptly.com](https://www.fedpromptly.org), built with Electron.
 
 ## Download
 
